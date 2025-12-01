@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "DECO*27 - Hibana -Reloaded- (Official Instrumental)",
+  "base_artist": "Nigel's Soundtracks and OSTs",
+  "createdAt": "2025-12-01T07:49:09.363067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Berry Blue (DECO*27 Vocal Mix)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/01_Berry_Blue_(DECO_27_Vocal_Mix)_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "27 -DECO*27 Vocal Mix-",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_27_-DECO_27_Vocal_Mix-_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ベリーブルー (DECO*27 Vocal Mix)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/03_ベリーブルー_(DECO_27_Vocal_Mix)_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DECO*27 - Ghost Rule feat. Hatsune Miku",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_DECO_27_-_Ghost_Rule_feat._Hatsune_Miku_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Berry Blue (DECO*27 Vocal Mix)",
+      "artist": "deco27",
+      "has_synced": false,
+      "path": "select/05_Berry_Blue_(DECO_27_Vocal_Mix)_deco27.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No You, No Me / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/06_No_You,_No_Me___DECO_27_Feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "むかしむかしのきょうのぼく / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/07_むかしむかしのきょうのぼく___DECO_27_Feat._初音ミク_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ゆめゆめ / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/08_ゆめゆめ___DECO_27_Feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ベリーブルー (DECO*27 Vocal Mix)",
+      "artist": "deco27",
+      "has_synced": false,
+      "path": "select/09_ベリーブルー_(DECO_27_Vocal_Mix)_deco27.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛言葉II / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/10_愛言葉II___DECO_27_Feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛言葉 / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/11_愛言葉___DECO_27_Feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DECO*27 - ゴーストルール feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/12_DECO_27_-_ゴーストルール_feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "相愛性理論 / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/13_相愛性理論___DECO_27_Feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "恋距離遠愛 / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/14_恋距離遠愛___DECO_27_Feat._初音ミク_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ペダルハート / DECO*27 Feat. GUMI",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/15_ペダルハート___DECO_27_Feat._GUMI_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "愛迷エレジー / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/16_愛迷エレジー___DECO_27_Feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "二息歩行 / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/17_二息歩行___DECO_27_Feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "キミ以上、ボク未満。 / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/18_キミ以上、ボク未満。___DECO_27_Feat._初音ミク_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "リノリウム / DECO*27 Feat. GUMI",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/19_リノリウム___DECO_27_Feat._GUMI_DECO_27.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOME",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_HOME_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "DECO*27 ー Ghost Rule feat. Hatsune Miku / ゴーストルール feat. 初音ミク",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_DECO_27_ー_Ghost_Rule_feat._Hatsune_Miku___ゴーストルール_feat._初音ミク_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "DECO*27 - ライアーダンス feat. 初音ミク",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_DECO_27_-_ライアーダンス_feat._初音ミク_初音ミク.txt"
+    }
+  ]
+}
